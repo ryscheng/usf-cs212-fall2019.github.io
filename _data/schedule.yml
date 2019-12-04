@@ -1332,6 +1332,14 @@ weeks:
           link: 'https://usfca.instructure.com/'
           type: 'has-text-weight-bold'
 
+        - icon: *icon_video
+          text: 'CS 212-01 Lecture'
+          link: 'https://usfca.zoom.us/recording/share/p8F_nY1RUWzjHnvBHfOvECPo8VMno5yj93jqGhbMi3uwIumekTziMw'
+          bump: true
+        - icon: *icon_video
+          text: 'CS 212-02 Lecture'
+          link: 'https://usfca.zoom.us/recording/share/6dkRDJ-1ddeEQigDV8KGiebBPezQ3XCQhXgep4HCR4-wIumekTziMw'
+
       dates:
         - icon: *icon_date
           text: 'PROJECT CUTOFF 2'
